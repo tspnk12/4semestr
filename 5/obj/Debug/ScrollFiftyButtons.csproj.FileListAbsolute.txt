@@ -1,0 +1,5 @@
+C:\Users\Катерина\Desktop\Новая папка\5\bin\Debug\ScrollFiftyButtons.exe
+C:\Users\Катерина\Desktop\Новая папка\5\bin\Debug\ScrollFiftyButtons.pdb
+C:\Users\Катерина\Desktop\Новая папка\5\obj\Debug\ScrollFiftyButtons.csprojAssemblyReference.cache
+C:\Users\Катерина\Desktop\Новая папка\5\obj\Debug\ScrollFiftyButtons.exe
+C:\Users\Катерина\Desktop\Новая папка\5\obj\Debug\ScrollFiftyButtons.pdb

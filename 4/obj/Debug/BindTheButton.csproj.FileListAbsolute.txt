@@ -1,0 +1,5 @@
+C:\Users\Катерина\Desktop\Новая папка\4\bin\Debug\BindTheButton.exe
+C:\Users\Катерина\Desktop\Новая папка\4\bin\Debug\BindTheButton.pdb
+C:\Users\Катерина\Desktop\Новая папка\4\obj\Debug\BindTheButton.csprojAssemblyReference.cache
+C:\Users\Катерина\Desktop\Новая папка\4\obj\Debug\BindTheButton.exe
+C:\Users\Катерина\Desktop\Новая папка\4\obj\Debug\BindTheButton.pdb

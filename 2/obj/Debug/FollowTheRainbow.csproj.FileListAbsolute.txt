@@ -1,0 +1,5 @@
+C:\Users\Катерина\Desktop\Новая папка\2\bin\Debug\FollowTheRainbow.exe
+C:\Users\Катерина\Desktop\Новая папка\2\bin\Debug\FollowTheRainbow.pdb
+C:\Users\Катерина\Desktop\Новая папка\2\obj\Debug\FollowTheRainbow.csprojAssemblyReference.cache
+C:\Users\Катерина\Desktop\Новая папка\2\obj\Debug\FollowTheRainbow.exe
+C:\Users\Катерина\Desktop\Новая папка\2\obj\Debug\FollowTheRainbow.pdb

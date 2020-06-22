@@ -1,0 +1,5 @@
+C:\Users\Катерина\Desktop\Новая папка\3\bin\Debug\RecordKeystrokes.exe
+C:\Users\Катерина\Desktop\Новая папка\3\bin\Debug\RecordKeystrokes.pdb
+C:\Users\Катерина\Desktop\Новая папка\3\obj\Debug\RecordKeystrokes.csprojAssemblyReference.cache
+C:\Users\Катерина\Desktop\Новая папка\3\obj\Debug\RecordKeystrokes.exe
+C:\Users\Катерина\Desktop\Новая папка\3\obj\Debug\RecordKeystrokes.pdb
