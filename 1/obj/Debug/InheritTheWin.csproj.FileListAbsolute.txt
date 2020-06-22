@@ -1,0 +1,5 @@
+C:\Users\Катерина\Desktop\Новая папка\1\bin\Debug\InheritTheWin.exe
+C:\Users\Катерина\Desktop\Новая папка\1\bin\Debug\InheritTheWin.pdb
+C:\Users\Катерина\Desktop\Новая папка\1\obj\Debug\InheritTheWin.csprojAssemblyReference.cache
+C:\Users\Катерина\Desktop\Новая папка\1\obj\Debug\InheritTheWin.exe
+C:\Users\Катерина\Desktop\Новая папка\1\obj\Debug\InheritTheWin.pdb
